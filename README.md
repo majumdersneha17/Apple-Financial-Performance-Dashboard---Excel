@@ -1,11 +1,6 @@
-# Apple-Financial-Performance-Dashboard
+# Apple Inc. Quarterly Financial Performance Dashboard
 This project showcases the quarterly financial performance of Apple Inc. using a visually appealing and informative dashboard. 
 The dashboard provides insights into key financial metrics like Net Sales, Gross Margin, Net Margin, EPS, COGS, ROI, and more. It also includes visualizations for sales growth, net income trends, R&D and SGA expenses, and the distribution of net sales between products and services.
-
-# 📊 Apple Inc. Quarterly Financial Performance Dashboard
-This project presents an interactive Excel dashboard analyzing the **quarterly financial performance of Apple Inc.** from Q1 2019 to Q1 2023. It combines key financial metrics, trends, and visual storytelling to showcase Apple's performance in a clear and executive-friendly format.
-
----
 
 ## 🧠 Business Impact & Questions Answered
 
