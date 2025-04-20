@@ -63,4 +63,5 @@ This dashboard is designed to help business leaders and financial analysts answe
   - Slicers
   - Conditional Formatting
 
-![Uploading image.png…]()
+<img width="793" alt="image" src="https://github.com/user-attachments/assets/4b760895-cff7-4f9a-93fd-aaa1c6947ca5" />
+
